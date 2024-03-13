@@ -1,6 +1,10 @@
 Features:
 List the key features of your Caesar cipher implementation, such as:
 
+
+
+
+
 Ability to encrypt plaintext.
 Ability to decrypt ciphertext.
 Customizable shift value.
