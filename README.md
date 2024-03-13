@@ -2,9 +2,6 @@ Features:
 List the key features of your Caesar cipher implementation, such as:
 
 
-
-
-
 Ability to encrypt plaintext.
 Ability to decrypt ciphertext.
 Customizable shift value.
@@ -20,5 +17,6 @@ python ciphertask.py encrypt "Your plaintext here" shift_value
 To decrypt text:
 python cipher.py decrypt "Your plaintext here" shift_value
 
-
+Requires:
+python3 install in your system
 
