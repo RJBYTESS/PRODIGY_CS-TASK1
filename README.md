@@ -6,10 +6,10 @@ Ability to encrypt plaintext.
 Ability to decrypt ciphertext.
 Customizable shift value.
 Support for alphabetic characters only.
-User-friendly interface (if applicable).
+User-friendly 
 
 Usage:
-git clone https://github.com/RJBYTESS/Secret-chat.git
+git clone https://github.com/RJBYTESS/PRODIGY_CS-TASK1.git
 cd PRODIGY_CS-TASK1
 Run the script
 To encrypt text:
