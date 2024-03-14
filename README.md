@@ -10,7 +10,7 @@ User-friendly interface (if applicable).
 
 Usage:
 git clone https://github.com/RJBYTESS/Secret-chat.git
-cd Secret-chat
+cd PRODIGY_CS-TASK1
 Run the script
 To encrypt text:
 python ciphertask.py encrypt "Your plaintext here" shift_value
@@ -18,5 +18,5 @@ To decrypt text:
 python cipher.py decrypt "Your plaintext here" shift_value
 
 Requires:
-python3 install in your system
+python3 installation in your system
 
