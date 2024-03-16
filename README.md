@@ -1,7 +1,7 @@
 used for the conversion of plain text  encryption and decryption according cipher rule
 
 # Features:
-# List the key features of your Caesar cipher implementation, such as:
+# The key features of Caesar cipher implementation, such as:
 
 
 Ability to encrypt plaintext.
